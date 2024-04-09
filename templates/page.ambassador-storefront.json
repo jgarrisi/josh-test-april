@@ -13,58 +13,11 @@
       "blocks": {
         "loudcrowd_ambassador_hero_v2_YqyKxb": {
           "type": "shopify:\/\/apps\/loudcrowd\/blocks\/ambassador-hero-v2\/0afc7a0d-9f70-43a2-81e1-c20306ea13bd",
-          "settings": {
-            "bannerBackgroundColor": "#4a7590",
-            "nameFontSize": 2,
-            "nameFontColor": "#333333",
-            "socialFontSize": 1.5,
-            "socialFontColor": "#333333",
-            "programFontSize": 1.5,
-            "bioFontColor": "#8b9196",
-            "bioButtonFontSize": 1,
-            "cancelBioButtonFontColor": "#000000",
-            "cancelBioButtonBackgroundColor": "#ffffff",
-            "saveBioButtonFontColor": "#ffffff",
-            "saveBioButtonBackgroundColor": "#860035",
-            "discountMessageFontSize": 1.5,
-            "discountMessageFontWeight": 400,
-            "discountMessageFontColor": "#8b9196",
-            "displayDiscountMessage": true,
-            "shareButtonFontSize": 1.5,
-            "shareButtonFontColor": "#333333",
-            "shareButtonBackgroundColor": "#ffffff",
-            "shareButtonBorderRadious": 10,
-            "urlAmbassadorHub": ""
-          }
+
         },
         "loudcrowd_ambassador_feed_89A7EF": {
           "type": "shopify:\/\/apps\/loudcrowd\/blocks\/ambassador-feed\/0afc7a0d-9f70-43a2-81e1-c20306ea13bd",
-          "settings": {
-            "primaryBrandColor": "#23395b",
-            "productPickerBackgroundColor": "#ffffff",
-            "titleTextColor": "#121212",
-            "secondaryTextColor": "#4a4a4a",
-            "pinEditProductsButton": false,
-            "albumPostDisplay": "group",
-            "discountPriceColor": "#e51010",
-            "priceColor": "#121212",
-            "titleTextSize": 1,
-            "titleTextWeight": 500,
-            "priceTextSize": 1,
-            "priceTextWeight": 400,
-            "discountPriceTextWeight": 500,
-            "cardBorderRadius": 10,
-            "productCardBackgroundOpacity": 0,
-            "discountCardBackgroundColor": "#212121",
-            "discountCardFontColor": "#ffffff",
-            "displayProductShare": true,
-            "shareButtonColor": "#022754",
-            "shareButtonBackgroundColor": "#ffffff",
-            "productShareBehavior": "featuredProductPage",
-            "feedDividerColor": "#efefef",
-            "editProductsButtonBackgroundColor": "#212121",
-            "editProductsButtonFontColor": "#ffffff"
-          }
+
         }
       },
       "block_order": [
